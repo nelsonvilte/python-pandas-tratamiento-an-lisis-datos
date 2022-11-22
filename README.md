@@ -1,8 +1,10 @@
 # Python Pandas: Tratamiento y análisis de datos
-**Avanzando en Pandas**
+**Series e index**
 
-- Importar datos y expotar dataframes
-- Dominar como limpiar y tratar datos faltantes
-- Conocer como remover outliers y crear nuevas variables
-- Seleccionar y generar frecuencias de los datos
-- Entender como usar Python, Pandas, Matplotlib, Jupiter y Anaconda
+
+- Seleccionar una variable del Dataframe (por ejemplo, datos['Tipo'] o datos.Tipo)
+- Un Dataframe está compuesto de varios Series
+- Eliminar duplicados (usando el método drop_duplicates())
+- Redefinir el index de un Dataframe y Series (atributo index)
+- Concatenar Dataframes (recordando el axis)
+- Crear nuevos Dataframes basados ​​en estructuras de datos Python (lista, diccionarios o tuplas)
