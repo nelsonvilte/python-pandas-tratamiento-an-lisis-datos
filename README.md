@@ -1,8 +1,7 @@
 # Python Pandas: Tratamiento y análisis de datos
-**Avanzando en Pandas**
+**Filtrando Datos**
 
-- Importar datos y expotar dataframes
-- Dominar como limpiar y tratar datos faltantes
-- Conocer como remover outliers y crear nuevas variables
-- Seleccionar y generar frecuencias de los datos
-- Entender como usar Python, Pandas, Matplotlib, Jupiter y Anaconda
+- Crear una Series booleana utilizando el método isin(..) a partir de un dataframe
+- Filtrar los datos de un dataframe utilizando una Series booleana
+- Exportar y guardar los datos de un dataframe(método to_csv())
+- Ordenar los datos de un dataframe (métodos sort_values​​() y sort_index())
