@@ -1,8 +1,9 @@
 # Python Pandas: Tratamiento y análisis de datos
-**Avanzando en Pandas**
+**Frecuencia de inmuebles**
 
-- Importar datos y expotar dataframes
-- Dominar como limpiar y tratar datos faltantes
-- Conocer como remover outliers y crear nuevas variables
-- Seleccionar y generar frecuencias de los datos
-- Entender como usar Python, Pandas, Matplotlib, Jupiter y Anaconda
+- Métodos de selección y frecuencias
+  - Selección con la condición OR (|)
+  - Selección con la condición AND (&)
+- Cómo crear un Index con split()
+- Selección por línea y columna en un dataframe:
+   - Indices numéricos y rótulos de las líneas
